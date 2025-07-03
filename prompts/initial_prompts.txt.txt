@@ -1,0 +1,1 @@
+You are an experienced recruiter. Generate 5 common interview questions for a [ROLE]. Then, provide suggested model answers for each question. Write the answers in a [TONE] tone.
