@@ -1,0 +1,26 @@
+/* Force dark background and light text */
+body {
+  background-color: #121212 !important;
+  color: #e0e0e0 !important;
+}
+
+/* Adjust links */
+a {
+  color: #90caf9 !important;
+}
+
+/* Adjust headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff !important;
+}
+
+/* Adjust page background for theme containers */
+.page-header, .main-content, .footer {
+  background-color: #121212 !important;
+}
+
+/* Optional: style code blocks for dark theme */
+pre, code {
+  background-color: #1e1e1e !important;
+  color: #f8f8f2 !important;
+}

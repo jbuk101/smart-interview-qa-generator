@@ -3,7 +3,7 @@ title: "Smart Interview Q&A Generator"
 layout: default
 theme: jekyll-theme-cayman
 ---
-
+<link rel="stylesheet" href="assets/css/style.css">
 # 🚀 Smart Interview Q&A Generator
 
 Welcome to the Smart Interview Q&A Generator — a mini-project showcasing prompt engineering skills to create realistic interview questions and answers for any role. This tool demonstrates practical prompt engineering, communication, and psychology-informed techniques.
