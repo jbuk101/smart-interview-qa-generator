@@ -10,8 +10,10 @@ Welcome to the Smart Interview Q&A Generator — a mini-project showcasing promp
 
 ## 📂 Project Files
 
-- [Project README](../README.md)
-- [Example Q&A Outputs](../outputs/example_qas.md)
+- [Project README]([Project README](https://github.com/jbuk101/smart-interview-qa-generator/blob/main/README.md)
+)
+- [Example Q&A Outputs]([Project README](https://github.com/jbuk101/smart-interview-qa-generator/blob/main/README.md)
+)
 
 ## 📖 About
 
